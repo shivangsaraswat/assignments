@@ -1,6 +1,7 @@
 .main-box{
     margin-right: 50px;
     margin-left: 50px;
+    font-family: 'Brush Script MT', cursive;
 }
 
 
@@ -49,4 +50,5 @@ div > p{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
+    
   }

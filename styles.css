@@ -1,3 +1,9 @@
+.main-box{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -32,7 +38,9 @@ div > p{
     background-color: #04AA6D; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
+    border-radius: 20px;
+    
+    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
